@@ -1,0 +1,14 @@
+{
+  "hero": { "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e", "credit": "Unsplash", "width": 2200 },
+  "electrical": { "src": "https://images.unsplash.com/photo-1660330589693-99889d60181e", "credit": "Unsplash", "width": 1200 },
+  "lowvoltage": { "src": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8", "credit": "Unsplash", "width": 1200 },
+  "sensors": { "src": "https://images.unsplash.com/photo-1707733260992-73ff6dbed163", "credit": "Unsplash", "width": 1200 },
+  "alarm": { "src": "https://images.unsplash.com/photo-1585367437379-e0b71bb18156", "credit": "Unsplash", "width": 1200 },
+  "cctv": { "src": "https://images.unsplash.com/photo-1557597774-9d273605dfa9", "credit": "Unsplash", "width": 1200 },
+  "measurements": { "src": "https://images.unsplash.com/photo-1758101755915-462eddc23f57", "credit": "Unsplash", "width": 1200 },
+  "panel": { "src": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5", "credit": "Unsplash", "width": 1400 },
+  "camera-wall": { "src": "https://images.unsplash.com/photo-1549109926-58f039549485", "credit": "Unsplash", "width": 1200 },
+  "cables": { "src": "https://images.unsplash.com/photo-1683322499436-f4383dd59f5a", "credit": "Unsplash", "width": 1200 },
+  "breakers": { "src": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e", "credit": "Unsplash", "width": 1200 },
+  "smartlock": { "src": "https://images.unsplash.com/photo-1558002038-1055907df827", "credit": "Unsplash", "width": 1200 }
+}
